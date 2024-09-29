@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex Project
+Just a guided project I may or may not continue on later.
